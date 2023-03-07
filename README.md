@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Climate+Crisis&weight=900&size=23&duration=3000&pause=500&color=1589F7&vCenter=true&width=435&lines=Hi+there!;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-I'm a passionate web developer that loves to mess around with tech. I started my programming journey back in 2015, since then I've been slowly learning and exploring new technologies.
+I'm a passionate web developer that loves to mess around with tech. I started my programming journey back in 2016, since then I've been slowly learning and exploring new technologies.
 
 
 ## Technologies used
